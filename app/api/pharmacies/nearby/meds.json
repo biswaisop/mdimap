@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Aspirin",
+    "ingredients": ["Acetylsalicylic Acid"],
+    "alternativeNames": ["Bayer", "Bufferin", "Easprin"]
+  },
+  {
+    "name": "Paracetamol",
+    "ingredients": ["Acetaminophen"],
+    "alternativeNames": ["Tylenol", "Panadol", "Calpol"]
+  },
+  {
+    "name": "Ibuprofen",
+    "ingredients": ["Ibuprofen"],
+    "alternativeNames": ["Advil", "Motrin", "Nurofen"]
+  },
+  {
+    "name": "Amoxicillin",
+    "ingredients": ["Amoxicillin Trihydrate"],
+    "alternativeNames": ["Amoxil", "Trimox", "Moxatag"]
+  },
+  {
+    "name": "Cough Syrup",
+    "ingredients": ["Dextromethorphan", "Guaifenesin"],
+    "alternativeNames": ["Robitussin", "Delsym", "Mucinex"]
+  },
+  {
+    "name": "Vitamin C",
+    "ingredients": ["Ascorbic Acid"],
+    "alternativeNames": ["Redoxon", "Sunkist Vitamin C"]
+  },
+  {
+    "name": "Antacid",
+    "ingredients": ["Calcium Carbonate", "Magnesium Hydroxide"],
+    "alternativeNames": ["Tums", "Rolaids"]
+  },
+  {
+    "name": "Bandages",
+    "ingredients": ["Cotton", "Plastic"],
+    "alternativeNames": ["Band-Aid", "Curad"]
+  },
+  {
+    "name": "Antiseptic Cream",
+    "ingredients": ["Chlorhexidine", "Povidone-Iodine"],
+    "alternativeNames": ["Betadine", "Savlon"]
+  },
+  {
+    "name": "Hand Sanitizer",
+    "ingredients": ["Ethyl Alcohol"],
+    "alternativeNames": ["Purell", "Germ-X"]
+  },
+  {
+    "name": "Metformin",
+    "ingredients": ["Metformin Hydrochloride"],
+    "alternativeNames": ["Glucophage", "Fortamet"]
+  },
+  {
+    "name": "Insulin",
+    "ingredients": ["Insulin Glargine"],
+    "alternativeNames": ["Lantus", "Novolog"]
+  },
+  {
+    "name": "Omeprazole",
+    "ingredients": ["Omeprazole Magnesium"],
+    "alternativeNames": ["Prilosec", "Losec"]
+  },
+  {
+    "name": "Cetirizine",
+    "ingredients": ["Cetirizine Hydrochloride"],
+    "alternativeNames": ["Zyrtec", "Alleroff"]
+  },
+  {
+    "name": "Loratadine",
+    "ingredients": ["Loratadine"],
+    "alternativeNames": ["Claritin", "Alavert"]
+  },
+  {
+    "name": "Diphenhydramine",
+    "ingredients": ["Diphenhydramine Hydrochloride"],
+    "alternativeNames": ["Benadryl", "Sominex"]
+  },
+  {
+    "name": "Hydrocodone",
+    "ingredients": ["Hydrocodone Bitartrate"],
+    "alternativeNames": ["Vicodin", "Norco"]
+  },
+  {
+    "name": "Dextromethorphan",
+    "ingredients": ["Dextromethorphan Hydrobromide"],
+    "alternativeNames": ["Delsym", "Robitussin DM"]
+  },
+  {
+    "name": "Albuterol",
+    "ingredients": ["Albuterol Sulfate"],
+    "alternativeNames": ["Ventolin", "ProAir"]
+  },
+  {
+    "name": "Prednisone",
+    "ingredients": ["Prednisone"],
+    "alternativeNames": ["Deltasone", "Rayos"]
+  },
+  {
+    "name": "Azithromycin",
+    "ingredients": ["Azithromycin Dihydrate"],
+    "alternativeNames": ["Zithromax", "Zmax"]
+  },
+  {
+    "name": "Clindamycin",
+    "ingredients": ["Clindamycin Phosphate"],
+    "alternativeNames": ["Cleocin", "Clindagel"]
+  },
+  {
+    "name": "Doxycycline",
+    "ingredients": ["Doxycycline Hyclate"],
+    "alternativeNames": ["Vibramycin", "Oracea"]
+  },
+  {
+    "name": "Fluconazole",
+    "ingredients": ["Fluconazole"],
+    "alternativeNames": ["Diflucan", "Canesten Oral"]
+  },
+  {
+    "name": "Tamsulosin",
+    "ingredients": ["Tamsulosin Hydrochloride"],
+    "alternativeNames": ["Flomax", "Uromax"]
+  },
+  {
+    "name": "Lisinopril",
+    "ingredients": ["Lisinopril"],
+    "alternativeNames": ["Prinivil", "Zestril"]
+  },
+  {
+    "name": "Atorvastatin",
+    "ingredients": ["Atorvastatin Calcium"],
+    "alternativeNames": ["Lipitor", "Torvast"]
+  },
+  {
+    "name": "Amlodipine",
+    "ingredients": ["Amlodipine Besylate"],
+    "alternativeNames": ["Norvasc", "Amlong"]
+  },
+  {
+    "name": "Metoprolol",
+    "ingredients": ["Metoprolol Tartrate"],
+    "alternativeNames": ["Lopressor", "Toprol"]
+  },
+  {
+    "name": "Propranolol",
+    "ingredients": ["Propranolol Hydrochloride"],
+    "alternativeNames": ["Inderal", "Hemangeol"]
+  },
+  {
+    "name": "Levothyroxine",
+    "ingredients": ["Levothyroxine Sodium"],
+    "alternativeNames": ["Synthroid", "Levoxyl"]
+  },
+  {
+    "name": "Losartan",
+    "ingredients": ["Losartan Potassium"],
+    "alternativeNames": ["Cozaar", "Lozapin"]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "ingredients": ["Hydrochlorothiazide"],
+    "alternativeNames": ["Microzide", "HydroDiuril"]
+  },
+  {
+    "name": "Simvastatin",
+    "ingredients": ["Simvastatin"],
+    "alternativeNames": ["Zocor", "Simlup"]
+  },
+  {
+    "name": "Furosemide",
+    "ingredients": ["Furosemide"],
+    "alternativeNames": ["Lasix", "Frusemide"]
+  },
+  {
+    "name": "Gabapentin",
+    "ingredients": ["Gabapentin"],
+    "alternativeNames": ["Neurontin", "Gralise"]
+  },
+  {
+    "name": "Tramadol",
+    "ingredients": ["Tramadol Hydrochloride"],
+    "alternativeNames": ["Ultram", "Conzip"]
+  },
+  {
+    "name": "Citalopram",
+    "ingredients": ["Citalopram Hydrobromide"],
+    "alternativeNames": ["Celexa", "Cipramil"]
+  },
+  {
+    "name": "Venlafaxine",
+    "ingredients": ["Venlafaxine Hydrochloride"],
+    "alternativeNames": ["Effexor", "Alventa"]
+  },
+  {
+    "name": "Bupropion",
+    "ingredients": ["Bupropion Hydrochloride"],
+    "alternativeNames": ["Wellbutrin", "Zyban"]
+  },
+  {
+    "name": "Sertraline",
+    "ingredients": ["Sertraline Hydrochloride"],
+    "alternativeNames": ["Zoloft", "Serenata"]
+  },
+  {
+    "name": "Escitalopram",
+    "ingredients": ["Escitalopram Oxalate"],
+    "alternativeNames": ["Lexapro", "Cipralex"]
+  },
+  {
+    "name": "Fluoxetine",
+    "ingredients": ["Fluoxetine Hydrochloride"],
+    "alternativeNames": ["Prozac", "Sarafem"]
+  },
+  {
+    "name": "Amitriptyline",
+    "ingredients": ["Amitriptyline Hydrochloride"],
+    "alternativeNames": ["Elavil", "Endep"]
+  },
+  {
+    "name": "Trazodone",
+    "ingredients": ["Trazodone Hydrochloride"],
+    "alternativeNames": ["Desyrel", "Oleptro"]
+  },
+  {
+    "name": "Diazepam",
+    "ingredients": ["Diazepam"],
+    "alternativeNames": ["Valium", "Diastat"]
+  },
+  {
+    "name": "Clonazepam",
+    "ingredients": ["Clonazepam"],
+    "alternativeNames": ["Klonopin", "Rivotril"]
+  },
+  {
+    "name": "Lorazepam",
+    "ingredients": ["Lorazepam"],
+    "alternativeNames": ["Ativan", "Loraz"]
+  },
+  {
+    "name": "Alprazolam",
+    "ingredients": ["Alprazolam"],
+    "alternativeNames": ["Xanax", "Niravam"]
+  },
+  {
+    "name": "Zolpidem",
+    "ingredients": ["Zolpidem Tartrate"],
+    "alternativeNames": ["Ambien", "Stilnox"]
+  },
+  {
+    "name": "Eszopiclone",
+    "ingredients": ["Eszopiclone"],
+    "alternativeNames": ["Lunesta", "Eszopic"]
+  },
+  {
+    "name": "Methotrexate",
+    "ingredients": ["Methotrexate Sodium"],
+    "alternativeNames": ["Rheumatrex", "Trexall"]
+  },
+  {
+    "name": "Hydroxychloroquine",
+    "ingredients": ["Hydroxychloroquine Sulfate"],
+    "alternativeNames": ["Plaquenil", "Quensyl"]
+  },
+  {
+    "name": "Cyclobenzaprine",
+    "ingredients": ["Cyclobenzaprine Hydrochloride"],
+    "alternativeNames": ["Flexeril", "Amrix"]
+  },
+  {
+    "name": "Allopurinol",
+    "ingredients": ["Allopurinol"],
+    "alternativeNames": ["Zyloprim", "Allosig"]
+  },
+  {
+    "name": "Diclofenac",
+    "ingredients": ["Diclofenac Sodium"],
+    "alternativeNames": ["Voltaren", "Cataflam"]
+  },
+  {
+    "name": "Naproxen",
+    "ingredients": ["Naproxen"],
+    "alternativeNames": ["Aleve", "Naprosyn"]
+  },
+  {
+    "name": "Meloxicam",
+    "ingredients": ["Meloxicam"],
+    "alternativeNames": ["Mobic", "Melox"]
+  },
+  {
+    "name": "Celecoxib",
+    "ingredients": ["Celecoxib"],
+    "alternativeNames": ["Celebrex", "Onsenal"]
+  },
+  {
+    "name": "Warfarin",
+    "ingredients": ["Warfarin Sodium"],
+    "alternativeNames": ["Coumadin", "Jantoven"]
+  },
+  {
+    "name": "Heparin",
+    "ingredients": ["Heparin Sodium"],
+    "alternativeNames": ["Liquaemin", "Calciparine"]
+  },
+  {
+    "name": "Enoxaparin",
+    "ingredients": ["Enoxaparin Sodium"],
+    "alternativeNames": ["Lovenox", "Clexane"]
+  },
+  {
+    "name": "Apixaban",
+    "ingredients": ["Apixaban"],
+    "alternativeNames": ["Eliquis"]
+  },
+  {
+    "name": "Dabigatran",
+    "ingredients": ["Dabigatran Etexilate"],
+    "alternativeNames": ["Pradaxa"]
+  },
+  {
+    "name": "Rivaroxaban",
+    "ingredients": ["Rivaroxaban"],
+    "alternativeNames": ["Xarelto"]
+  }
+]
